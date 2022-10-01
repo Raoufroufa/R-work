@@ -5,5 +5,5 @@ It is a message generator program using JavaScript, when you'll run it you get a
 + Luck.
 + Funny joke.
 
-### Created by https://github.com/Raoufroufa
+### Created by [Raouf](https://github.com/Raoufroufa)
 ### feel free to contact me :) .
